@@ -1,4 +1,4 @@
-# 💬 Real-Time Chat Application (chat_final)
+# 💬 Real-Time Chat Application
 
 A robust, full-stack Real-Time Chat Application built using the **MERN stack** and **Socket.io**. This project demonstrates end-to-end development, featuring secure authentication, real-time bi-directional communication, and a responsive user interface.
 
