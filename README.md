@@ -162,20 +162,5 @@ Backend
 • Push Notifications
 • Emoji & GIF Support
 • Online/Offline Status
-• Dark Mode
-• Docker Deployment
-• Mobile App Version
 
-⸻
-
-🤝 Contribution
-
-• Fork the repository
-• Create your feature branch
-• Commit your changes
-• Open a pull request
-
-Contributions are welcome.
-
-⸻
 
