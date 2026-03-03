@@ -63,7 +63,7 @@ chat_final/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/saloni259/chat_final.git
+git clone https://github.com/saloni259/Real_Time_Chat_app.git
 cd chat_final
 
 ⸻
